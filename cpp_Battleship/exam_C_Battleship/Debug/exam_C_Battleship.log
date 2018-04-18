@@ -1,0 +1,13 @@
+﻿  exam_C_Battleship.cpp
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(289): warning C4309: =: усечение константного значения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(290): warning C4309: =: усечение константного значения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(349): warning C4309: =: усечение константного значения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(350): warning C4309: =: усечение константного значения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(450): warning C4474: "fprintf_s" : для строки формата передано слишком много аргументов
+  e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(450): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 2
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(142): warning C4715: InitUsersField: значение возвращается не при всех путях выполнения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(154): warning C4715: GetCorrectDirection: значение возвращается не при всех путях выполнения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(169): warning C4715: GetCorrectCharacter: значение возвращается не при всех путях выполнения
+e:\академия шаг\программирование с++\codecpp\exam_c_battleship\exam_c_battleship\exam_c_battleship.cpp(195): warning C4715: GetCorrectNumber: значение возвращается не при всех путях выполнения
+  exam_C_Battleship.vcxproj -> E:\Академия ШАГ\Программирование С++\CodeCPP\exam_C_Battleship\Debug\exam_C_Battleship.exe
+  exam_C_Battleship.vcxproj -> E:\Академия ШАГ\Программирование С++\CodeCPP\exam_C_Battleship\Debug\exam_C_Battleship.pdb (Partial PDB)
