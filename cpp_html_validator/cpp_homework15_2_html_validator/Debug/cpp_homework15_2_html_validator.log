@@ -1,0 +1,3 @@
+﻿  cpp_homework15_2_html_validator.cpp
+d:\академия шаг\программирование с++\codecpp\cpp_homework15_2_html_validator\cpp_homework15_2_html_validator\cpp_homework15_2_html_validator.cpp(25): warning C4244: аргумент: преобразование "std::streamoff" в "const unsigned int", возможна потеря данных
+  cpp_homework15_2_html_validator.vcxproj -> D:\Академия ШАГ\Программирование С++\CodeCPP\cpp_homework15_2_html_validator\Debug\cpp_homework15_2_html_validator.exe
