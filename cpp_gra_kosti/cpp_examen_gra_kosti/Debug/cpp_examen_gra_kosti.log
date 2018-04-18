@@ -1,0 +1,13 @@
+﻿  cpp_examen_gra_kosti.cpp
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(144): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(183): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(237): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(244): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(253): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(259): warning C4018: <: несоответствие типов со знаком и без знака
+d:\академия шаг\программирование с++\codecpp\cpp_examen_gra_kosti\cpp_examen_gra_kosti\cpp_examen_gra_kosti.cpp(203): warning C4715: GetPositiveShort: значение возвращается не при всех путях выполнения
+  cpp_examen_gra_kosti.vcxproj -> D:\Академия ШАГ\Программирование С++\CodeCPP\cpp_examen_gra_kosti\Debug\cpp_examen_gra_kosti.exe
